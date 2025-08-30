@@ -1,0 +1,8 @@
+Feature,Ranking,Selected
+TotalPurchaseAmount,1,True
+AvgOrderValue,1,True
+TotalTransactions,1,True
+NumberOfOrders,1,True
+Tenure,1,True
+Recency,2,False
+Frequency,3,False

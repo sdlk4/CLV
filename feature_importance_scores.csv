@@ -1,0 +1,8 @@
+Feature,Score,Selected
+TotalPurchaseAmount,3509.5800284896504,True
+NumberOfOrders,644.879869838392,True
+AvgOrderValue,357.40086950553916,True
+TotalTransactions,86.81958935130892,True
+Tenure,28.280562258205894,True
+Recency,10.394236101437738,False
+Frequency,1.7577263846992075,False

@@ -12,19 +12,24 @@ The pipeline automates:
 
 ## 📂 Project Structure  
 CLV_PREDICTION/
-│── data/                           # Raw and processed datasets
-│── models/                         # Saved ML models
-│── outputs/                        # Generated reports, plots, results
-│   ├── plots/                      # Visualizations (feature importance, comparison, etc.)
-│   ├── results/                    # Prediction results & analysis outputs
-│── 1_data_processing.py            # Data cleaning & preprocessing
-│── 2_feature_selection.py          # Feature engineering & selection
-│── 3_model_training.py             # Train ML models (Linear Regression, XGBoost, etc.)
-│── 4_model_saving_prediction.py    # Save model & make predictions
-│── 5_customer_segmentation.py      # Customer segmentation based on CLV
-│── 6_automation_script.py          # End-to-end pipeline automation
-│── requirements.txt                # Dependencies
-│── README.md                       # Project documentation
+│
+├── data/ # Raw and processed datasets
+│
+├── models/ # Saved ML models
+│
+├── outputs/ # Generated reports, plots, results
+│ ├── plots/ # Visualizations (feature importance, comparison, etc.)
+│ ├── results/ # Prediction results & analysis outputs
+│
+├── 1_data_processing.py # Data cleaning & preprocessing
+├── 2_feature_selection.py # Feature engineering & selection
+├── 3_model_training.py # Train ML models (Linear Regression, XGBoost, etc.)
+├── 4_model_saving_prediction.py# Save model & make predictions
+├── 5_customer_segmentation.py # Customer segmentation based on CLV
+├── 6_automation_script.py # End-to-end pipeline automation
+│
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
 
 ## 📊 Dataset
 You can use any **customer transaction dataset** that includes:  

@@ -29,7 +29,7 @@ You'll need Python 3.7+ and the packages listed in requirements.txt. The usual s
 
 # Installation
 1. Clone this repository:
-git clone https://github.com/yourusername/Customer-Lifetime-Value-Prediction.git
+git clone https://github.com/sdlk/Customer-Lifetime-Value-Prediction.git
 cd Customer-Lifetime-Value-Prediction
 
 2. Install the required packages:

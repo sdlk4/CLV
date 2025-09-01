@@ -7,17 +7,17 @@ Customer Lifetime Value prediction is crucial for any business that wants to:
 This project uses machine learning to predict CLV and then segments customers into high, medium, and low value groups. No more guesswork – just solid predictions backed by data.
 
 ## Project Structure  
-├── data/processed/          # Clean, processed datasets ready for modeling
-├── models/                  # Trained model files
-├── outputs/                 # Generated predictions and visualizations
-├── results/                 # Analysis results and performance metrics
-├── 1_data_processing.py     # Data cleaning and preprocessing
-├── 2_feature_selection.py   # Feature engineering and selection
-├── 3_model_training.py      # Model training and validation
-├── 4_model_saving_prediction.py  # Save models and generate predictions
-├── 5_customer_segmentation.py    # Customer segmentation logic
-├── 6_automation_script.py   # End-to-end pipeline automation
-└── requirements.txt         # Project dependencies
+- ├── data/processed/          # Clean, processed datasets ready for modeling
+- ├── models/                  # Trained model files
+- ├── outputs/                 # Generated predictions and visualizations
+- ├── results/                 # Analysis results and performance metrics
+- ├── 1_data_processing.py     # Data cleaning and preprocessing
+- ├── 2_feature_selection.py   # Feature engineering and selection
+- ├── 3_model_training.py      # Model training and validation
+- ├── 4_model_saving_prediction.py  # Save models and generate predictions
+- ├── 5_customer_segmentation.py    # Customer segmentation logic
+- ├── 6_automation_script.py   # End-to-end pipeline automation
+- └── requirements.txt         # Project dependencies
 
 ## Getting Started
 ## Prerequisites
@@ -98,7 +98,7 @@ Found a bug or have an idea for improvement? Feel free to:
 - Create a feature branch
 - Make your changes
 - Submit a pull request
-- 
+  
 # Technical Notes
 - The project uses XGBoost as the default algorithm due to its strong performance on tabular data
 - Feature scaling is handled automatically within the pipeline

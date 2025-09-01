@@ -29,14 +29,14 @@ You'll need Python 3.7+ and the packages listed in requirements.txt. The usual s
 
 # Installation
 1. Clone this repository:
-git clone https://github.com/sdlk/Customer-Lifetime-Value-Prediction.git
-cd Customer-Lifetime-Value-Prediction
+- git clone https://github.com/sdlk4/Customer-Lifetime-Value-Prediction.git
+- cd Customer-Lifetime-Value-Prediction
 
 2. Install the required packages:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3. Run the automated pipeline:
-python 6_automation_script.py
+- python 6_automation_script.py
 That's it! The script will handle everything from data processing to final predictions.
 
 # How It Works
